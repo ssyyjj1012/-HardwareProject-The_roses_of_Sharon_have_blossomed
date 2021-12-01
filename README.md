@@ -1,3 +1,6 @@
+오픈소스 하드웨어 응용 기말 프로젝트 
+
+
 ![슬라이드1](https://user-images.githubusercontent.com/52689953/144213931-bd2988e5-82d1-448a-8645-738ecf8f58cf.JPG)
 
 ![슬라이드2](https://user-images.githubusercontent.com/52689953/144213955-adb98dda-42c2-4bee-a5d5-16b02e11b3f2.JPG)
